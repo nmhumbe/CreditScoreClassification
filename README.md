@@ -22,7 +22,7 @@ Achieved an accurcy of 89% for both Random Forest and XGBoost models.
 Through feature selection techniques, discovered that **outstanding debt** is the most significant feature to predict the outcome.
 
 **Random Forest:** 
-<img src="RandomForestReport.png" alt="Image" height="400">
+![RF report](Images/RandomForestReport.png)
 
 <!-- ROADMAP -->
 
