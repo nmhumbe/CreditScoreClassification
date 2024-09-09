@@ -20,7 +20,7 @@ Achieved an accurcy of 89% for both Random Forest and XGBoost models.
 
 **Random Forest:** 
 - Classifcation Report
-<img src="Images/RandomForestReport.png" alt="RF Report" width="400">
+<img src="Images/RandomForestReport.png" alt="RF Report" width="400">  <img src="Images/RF-heatmap.png" alt="RF Heatmap" width="400">
 
 - Confusion Matrix
 <img src="Images/RF-heatmap.png" alt="RF Heatmap" width="400">
