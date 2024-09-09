@@ -9,20 +9,32 @@ This project focuses on building a classification model to predict credit scores
 
 ### Modeling Process
 The following models were applied in this project:
-**Logistic Regression**: Used as a baseline for binary classification.
-**Random Forest**: Selected for its ability to handle complex data relationships.
-**XGBoost**: Chosen for its high performance with imbalanced datasets.
+- **Logistic Regression**: Used as a baseline for binary classification.
+- **Random Forest**: Selected for its ability to handle complex data relationships.
+- **XGBoost**: Chosen for its high performance with imbalanced datasets.
 
-Oversampling techniques (SMOTE) were used to address class imbalance, and feature scaling was applied using `StandardScaler`.
+Oversampling techniques (SMOTE) were used to address class imbalance, and feature scaling was applied using StandardScaler.
 
 ### Results
 Achieved an accurcy of 89% for both Random Forest and XGBoost models.
 
+**Random Forest:** 
+- Classifcation Report
+<img src="Images/RandomForestReport.png" alt="RF Report" width="400">
+
+- Confusion Matrix
+<img src="Images/RF-heatmap.png" alt="RF Heatmap" width="400">
+
+**XGBoost:**
+- Classifcation Report
+<img src="Images/XGB-report.png" alt="XGB Report" width="400">
+
+- Confusion Matrix
+<img src="Images/XGB-heatmap.png" alt="XGB Heatmap" width="400">
 
 Through feature selection techniques, discovered that **outstanding debt** is the most significant feature to predict the outcome.
 
-**Random Forest:** 
-![RF report](Images/RandomForestReport.png)
+
 
 <!-- ROADMAP -->
 
@@ -74,7 +86,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Neha Humbe - nehahumbe@ucla.edu
 
-Project Link: https://github.com/nmhumbe/CreditScoreClassification
+Project Link -  https://github.com/nmhumbe/CreditScoreClassification
 
 
 <!-- ACKNOWLEDGMENTS -->
