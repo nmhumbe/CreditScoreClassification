@@ -5,7 +5,7 @@
 ## About this Project
   
 ### Description/Motivation
-This project focuses on building a classification model to predict credit scores (Poor, Standard, Good) based on various financial features, such as income, outstanding debt, and payment behavior. Predicting credit scores accurately can assist financial institutions in making informed lending decisions and manage risk. The motivation behind this project was to apply machine learning techniques to financial data and showcase feature engineering, data cleaning, and model-building skills using tools such as Random Forest and XGBoost.
+This project focuses on building a classification model to predict credit scores (Poor, Standard, Good) based on an individual's credit-related financial information, such as income, outstanding debt, and payment behavior. Predicting credit scores accurately can assist financial institutions in making informed lending decisions and manage risk. The motivation behind this project was to apply machine learning techniques to financial data and showcase data cleaning, EDA, feature engineering, and model-building using Random Forest and XGBoost.
 
 ### Modeling Process
 The following models were applied in this project:
@@ -20,7 +20,7 @@ Achieved an accurcy of 89% for both Random Forest and XGBoost models.
 
 **Random Forest:** 
 - Classifcation Report
-<img src="Images/RandomForestReport.png" alt="RF Report" width="400">  <img src="Images/RF-heatmap.png" alt="RF Heatmap" width="400">
+<img src="Images/RandomForestReport.png" alt="RF Report" width="400">
 
 - Confusion Matrix
 <img src="Images/RF-heatmap.png" alt="RF Heatmap" width="400">
