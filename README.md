@@ -1,6 +1,6 @@
-# Credit Score Classification Project
+# Find My Credit
 
-#### End-to-end data science project
+#### End-to-end credit score classification model project
 
 ## About this Project
   
