@@ -55,7 +55,7 @@ Through feature selection techniques, discovered that **outstanding debt** is th
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/nmhumbe/CreditScoreClassification
+   git clone https://github.com/nmhumbe/FindMyCredit
    ```
 2. Create a virtual environment and activate it:
    ```sh
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Neha Humbe - nehahumbe@ucla.edu
 
-Project Link -  https://github.com/nmhumbe/CreditScoreClassification
+Project Link -  https://github.com/nmhumbe/FindMyCredit
 
 
 <!-- ACKNOWLEDGMENTS -->
